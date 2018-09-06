@@ -16,8 +16,8 @@
 | dアニメストア | 432 JPY / mo |  |
 | Apple Music | 980 JPY / mo |  |
 | Spotify | 980 JPY / mo |  |
-| Twitch | 1058 JPY / mo |  |
-| Netflix | 1566 JPY / mo | with multiple persons |
+| Twitch | ???? JPY / mo |  |
+| Netflix | ???? JPY / mo |  |
 
 ## Licenses
 
